@@ -2,6 +2,8 @@
 
 This repository contains short, focused notebooks and examples for learning foundational data-science tasks using NumPy, Pandas, Matplotlib/Seaborn, scikit-learn, and statsmodels. The current notebook covers basic NumPy arrays and indexing. Below is a tracker of topics covered and planned, plus notes, example formats, and run instructions to keep the project organized.
 
+## Current content
+- `Numpy_array.ipynb` — basic NumPy arrays, 2D/3D arrays, indexing and slicing examples.
 
 ## Planned topics (near-future)
 Use this list as a checklist and learning roadmap. Each entry includes a short description and example APIs that will be demonstrated in accompanying notebooks.
