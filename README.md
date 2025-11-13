@@ -117,7 +117,7 @@ Open notebooks with Jupyter Lab or VS Code's notebook editor.
 - ANOVA/ANCOVA examples use `statsmodels`; let me know if you'd prefer alternate libraries.
 
 ## Next actionable steps (you can ask me to run any of these)
-1. Add a sample CSV under `data/exercise_heartbeat_example.csv` (I can create one for you).
+1. Add a sample CSV under `data/exercise_heartbeat_example.csv` 
 2. Add a `requirements.txt` with pinned versions.
 3. Create starter notebook `notebooks/03_visualization_and_eda.ipynb` that loads the CSV, draws the histogram and scatter, and runs ANOVA/ANCOVA.
 4. Add the IRIS classification and clustering notebooks.
